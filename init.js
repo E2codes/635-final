@@ -1,5 +1,5 @@
 //defining db
-db = db.getSiblingDB("635final");
+use 635final; 
 
 //Creation of the first collection and its validation 
 
