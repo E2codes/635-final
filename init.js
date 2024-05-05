@@ -1,5 +1,3 @@
-//defining db
-use 635final; 
 
 //Creation of the first collection and its validation 
 
